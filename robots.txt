@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fojoidoogh.sixsidedsphere.com/sitemap.xml
